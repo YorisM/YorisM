@@ -1,12 +1,12 @@
 # Yoris Marcet
 
-Physics master's student with a focus on Python, machine learning, scientific computing, model evaluation and benchmarking. 
+Physics master's student with a focus on Python, LLMs, machine learning, scientific computing, model evaluation and benchmarking. 
 
 ## Selected work
 
-- **MSc Internship: LLM Benchmarking in ML Particle Physics Tasks** - Python pipeline for evaluating LLM-generated solutions on binary classification of four-top (tttt) signal X versus irreducable background events and particle track reconstruction.
+- **[MSc Internship: LLM Benchmarking in ML Particle-Physics Tasks](https://github.com/YorisM/MSc-LLM-ML-Benchmark-Pipeline)** - Python pipeline for evaluating LLM-generated solutions on binary classification of four-top (tttt) signal X versus irreducible background events and particle track reconstruction.
 
-- **BSc Internship: Binary Classification of four-top events** - Notebooks implementing and comparing various deep neural networkds, such as FCN, CNN and Transformer models for binary classification on simulated four-top events.
+- **[BSc Internship: Binary Classification of Four-Top Events](https://github.com/YorisM/BSc-ChatGPT-4TOPS)** - Notebooks implementing and comparing various deep neural networks, such as FCN, CNN and Transformer models for binary classification on simulated four-top events.
 
 ## Skills
 
