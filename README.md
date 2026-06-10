@@ -8,6 +8,12 @@ Physics master's student with a focus on Python, LLMs, machine learning, scienti
 
 - **[BSc Internship: Binary Classification of Four-Top Events](https://github.com/YorisM/BSc-ChatGPT-4TOPS)** - Notebooks implementing and comparing various deep neural networks, such as FCN, CNN and Transformer models for binary classification on simulated four-top events.
 
+## Additional Work
+
+- **[Neuro-Analysis](https://github.com/YorisM/Neural-Analysis)** - (under construction) Coursework notebooks on computational and quantitative neuroscience methods.
+
+- **Advanced Programming** - (to be pushed) C++ coursework as an introductory comparison between interpreted (Python) and compiled languages (c++) code performance.
+
 ## Skills
 
 Python · NumPy · pandas · SciPy · scikit-learn · PyTorch · Matplotlib · Git
